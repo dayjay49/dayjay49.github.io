@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0f491d82921cad1d2f1f590b787c0a6",
+    "revision": "e344f0a1b1dec8bd377d565b32e7201e",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.c1fb602b.chunk.css"
   },
   {
-    "revision": "7ad757edeccaf8b037cc",
+    "revision": "0606754d6a25d42e8fbb",
     "url": "/static/css/main.75b0ff9c.chunk.css"
   },
   {
@@ -20,15 +20,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.63a94af8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ad757edeccaf8b037cc",
-    "url": "/static/js/main.2f0f2665.chunk.js"
+    "revision": "0606754d6a25d42e8fbb",
+    "url": "/static/js/main.958bfa9d.chunk.js"
   },
   {
     "revision": "c88671eb88bf6c28dee9",
     "url": "/static/js/runtime-main.6a060e8a.js"
   },
   {
-    "revision": "193ea4b665d1294aa3e1aa56c1ee8e36",
-    "url": "/static/media/Jae Hui Seo_Resume_2021.193ea4b6.pdf"
+    "revision": "85b92385dac891d9b333610ffd1eeec0",
+    "url": "/static/media/Jae Hui Seo_Resume_2022.85b92385.pdf"
   }
 ]);
