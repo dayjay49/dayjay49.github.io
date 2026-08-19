@@ -29,6 +29,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     revision: "a692e570cd5110b0892d0e092a5192ef",
-    url: "/static/media/Jae Hui Seo_Resume_2026.pdf",
+    url: "/static/media/Jae_Hui_Seo_Resume_2026.pdf",
   },
 ]);

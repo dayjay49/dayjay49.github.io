@@ -3,7 +3,7 @@
   [0],
   {
     22: function (e, a, t) {
-      e.exports = t.p + "static/media/Jae Hui Seo_Resume_2026.pdf";
+      e.exports = t.p + "static/media/Jae_Hui_Seo_Resume_2026.pdf";
     },
     3: function (e) {
       e.exports = JSON.parse(
